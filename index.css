@@ -1,0 +1,27 @@
+h1{
+ text-align:center;
+}
+
+.list{
+  list-style: none;
+}
+
+.r img{
+  height:200px;
+}
+
+.r p{
+  width:80%;
+  flex:1;
+}
+
+.r{
+  display:flex;
+  gap:10px;
+  flex-direction:column;
+}
+
+.recipe-container{
+  display:flex;
+  gap:15px;
+}
