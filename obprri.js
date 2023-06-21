@@ -1,3 +1,7 @@
-let str = "Hello";
-str.test = 5;
-console.log(str.test);
+a= "Os"
+
+console.log(String.fromCodePoint(100))
+
+b = "Boss"
+c = "Ass"
+console.log(c.localeCompare(c))
