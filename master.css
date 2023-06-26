@@ -18,6 +18,12 @@ body{
     flex-direction: row-reverse;
     padding-right:5%;
 }
+nav a{
+    padding:15px;
+}
+nav a:hover{
+    background-color: #3882f6;
+}
 
 .box2{
     color:#f9faf8;
